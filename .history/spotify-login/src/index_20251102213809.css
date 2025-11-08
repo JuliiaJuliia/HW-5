@@ -1,0 +1,12 @@
+/* Сброс */
+* {
+  box-sizing: border-box;
+}
+
+/* тело и фон приложения */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #0a0810; /* очень тёмный фон */
+}
